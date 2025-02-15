@@ -1,9 +1,0 @@
-/media/exyyyyy/DATA/files/funpro/rust/wallet/target/debug/deps/libbitcoincash_addr-c7c3d2ab11c09006.rmeta: /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/lib.rs /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/base58/mod.rs /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/base58/errors.rs /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/cashaddr/mod.rs /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/cashaddr/errors.rs
-
-/media/exyyyyy/DATA/files/funpro/rust/wallet/target/debug/deps/bitcoincash_addr-c7c3d2ab11c09006.d: /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/lib.rs /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/base58/mod.rs /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/base58/errors.rs /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/cashaddr/mod.rs /home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/cashaddr/errors.rs
-
-/home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/lib.rs:
-/home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/base58/mod.rs:
-/home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/base58/errors.rs:
-/home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/cashaddr/mod.rs:
-/home/exyyyyy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincash-addr-0.5.2/src/cashaddr/errors.rs:
